@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# 训练结果和模型
+results/
+results_enhanced/
+*.pth
+*.pt
+*.ckpt
+
+# 其他
+.DS_Store
+*.log 
