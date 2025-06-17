@@ -20,4 +20,7 @@ results_enhanced/
 
 # 其他
 .DS_Store
-*.log 
+*.log
+
+data/
+my_cat.jpg 
